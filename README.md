@@ -10,7 +10,7 @@ $ sudo pip install scapy-python3
 
 $ cd Network-Scanner
 
-$ sudo python3 netdiscover.py -t <Target IP>
+$ sudo python3 netdiscover.py -t [Target IP]
 
 
 
